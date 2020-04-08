@@ -1,0 +1,71 @@
+---
+layout: post
+title: 推荐个美国的MVNO：Xfinity Mobile
+---
+
+首先来解释一下啥叫作MVNO：
+
+MVNO，全称Mobile Virtual Network Operator。中文估计翻译成虚拟网络运营商？他们在美国的业务模式基本上就是从美国四大运营商（Verizon ， ATT, T-Mobile, Sprint)手里买资源，然后再卖给消费者。 那么为什么各方都愿意这么做呢？首先四大运营商愿意卖是因为在任何时候，基本上谁都不能保证自己的资源是被完全占用的。 举个简单但可能不太现实的例子，比如Verizon在A城一共有100Mbps的带宽，然后它在A城的所有用户只用了80Mbps的带宽。那么对于Verizon来说这剩下的20Mbps的带宽就被浪费掉了，也没办法回收利用什么的。 所以不如卖给MVNO赚一笔钱。那么消费者为啥愿意买呢？主要是因为便宜啊。而且对于大多数人来说MVNO的服务质量和四大运营商的服务质量没啥区别。当然了，具体肯定是有区别的，但是各家情况不同。比如有些MVNO就没有roaming，然后基本上大家都有的限制就是如果有网络堵塞的话，MVNO用户的速度是最先被限制的，以保证四大运营商post-paid的用户的速度。
+
+ 
+
+那么来说说我今天推荐的这个Xfinity Mobile。 从名字就能看出来，这是Comcast的手机服务。使用Xfinity Mobile的前提是你有用Comcast的网，电视，电话中的至少一项。
+
+功能方面如下：
+
+1. 网是Verizon的网，所以基本上能保证在美国的哪个犄角旮旯都有信号
+
+2. 支持VoLTE和Wifi Calling。 VoLTE可以让你在通话的同时使用LTE流量上网，Wifi Calling可以在手机信号不好但有Wifi 信号的时候使用WiFi信号打电话，发短信。但是不知道是Verizon还是Xfinity Mobile的设置，WiFi Calling只有在手机信号不好的时候才会开启 (vs. T-Mobile的WiFi Calling是连上了WiFi就开启，不论手机信号强弱）。
+
+3. 可以携号转网 （目前我貌似没碰到谁家说不能的）
+
+4. BYOD （Bring Your Own Device) 目前只支持iPhone的某些型号 （这个不是Xfinity Mobile的锅，因为貌似ATT版本的iPhone 7还是8用的Intel的Modem只支持GSM不支持CDMA，而unlock版本的用的Qualcomm的Modem支持GSM和CDMA）。传言说今年年底之前会支持Android BYOD。  BYOD的话需要去Xfinity Store开户，没办法从网上开户。
+
+ 
+
+ 
+
+价格方面如下：
+
+Unlimited call/message + 100 MB LTE data: 免费
+
+然后超过100MB之后的流量有两个选择：
+
+1. $12/GB，不满1GB算按1GB算，但流量不会被Cap也没有被cap的选项。基本上选了这个选项就是流量随便用，话费等于12*（流量GB-0.1）。同时这个选项开Personal Hotspot速度没有限制。
+
+2. $45 unlimited。 如果选这个开Personal Hotspot，速度貌似会被限在500K。
+
+有family plan，但是每条线的数据和价格都是单算的，所以没看出来family plan有啥好处，但是支持Mix。换句话说，比如family plan有2个人，可以一个人选unlimited，一个人按流量算。但是每条线的流量都是单独的，没有share这个说法，也没有什么data rollover的说法。
+
+另外我问过Comcast的人，如果（虽然我觉得不太可能，但是比如说什么学生暑假回国之类的）一个月用的流量小于100MB的话，那么当月话费就只有个tax&fee （我这边大概是2块钱）。
+
+ 
+
+所以像我这种平常不太外出的人来说（基本上都呆在家里或者办公室），差不多一个月的话费就是$14 ($12+tax&fee)。 给你们看账单。 而且5月的时候还陪爸妈去DC和纽约转了转，中间各种Google Map导航 但是流量仍然没有超过1GB
+
+ ![_config.yml]({{ site.baseurl }}/images/2018-07-05 15.43.26.png)
+
+
+网速方面，我自己在家测了几次，虽然没啥代表性，但是还是给你们看看。虽然有两次测出来速度非常慢，但是整体来说还行。
+
+![_config.yml]({{ site.baseurl }}/images/2018-07-05 15.47.59.png)
+
+ 
+
+那么来总结一下：
+
+Pros：
+
+便宜（如果你流量用的不多的话）
+
+Verizon的网，覆盖好
+
+ 
+
+Cons：
+
+不支持Android BYOD
+
+网上有人是在promotion period加入的，说什么没收到gift card啥的。 还有人说什么add line的时候被block啥的，反正我自己去店里弄的时候没出啥幺蛾子，当然我也没有啥promotion。
+
+总之我觉得就是如果不和客服打交道，自己流量用的不多的话，还是可以考虑一下Xfinity Mobile的。 至少目前我没找到那个MVNO在用Verizon的网的前提下，按每个月用1GB价格比Xfinity Mobile低的。
