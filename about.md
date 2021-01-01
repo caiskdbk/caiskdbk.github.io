@@ -7,7 +7,7 @@ permalink: /about/
 UVa经济学必胜客外卖毕业; 所有学宏观的都是异端必须烧死; 在学ECON里面的最懂CS,在学CS里的最懂ECON
 
 ### More Information
-目前导入了2014年之后在我wordpress blog上的所有post. 如果对我之前的博客感兴趣的话,请移步[这里](https://caiskdbk.wordpress.com)
+目前导入了2014年之后在我wordpress blog上的所有post. 
 
 
 ### Disclaimer
