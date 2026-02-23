@@ -7,7 +7,7 @@ title: 减肥
 # 理论依据
 1. 最重要也是最基本的减肥理论依据是消耗一公斤脂肪大约需要烧掉7,700卡路里
 2. 人的基础代谢(BMR)是可以根据公式算出来的
-    1. 如果是男生 - $(10\times \text{weight in kg}) + (6.25\times \text{height in cm}) - (5\times\text{age})+5$. 
+    1. 如果是男生 - $(10\times \text{weight in kg}) + (6.25\times \text{height in cm}) - (5\times\text{age})+5 $. 
     2. 如果是女生 - $(10\times \text{weight in kg}) + (6.25\times \text{height in cm}) - (5\times\text{age}) - 161$. 
 3. 把基础代谢乘以一个运动系数(大部分时间不运动乘1.2, 有轻量运动乘1.375)就能得到每日消耗总热量(TDEE)
 4. 计算热量缺口(TDEE-吃掉的卡路里 或者 BMR+运动消耗的卡路里-吃掉的卡路里)就大约是每天能烧掉的热量. 
