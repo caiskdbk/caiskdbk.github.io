@@ -5,6 +5,10 @@ title: 减肥
 上次在new year resolution里面写道我今年的目标是要减肥8kg, 所以趁着新年伊始,我就认认真真的开始了减肥. 所以用这个来记录一下我的减肥经历以及在减肥的过程中学到的东西. 大部分资料来自于小红书和chatGPT
 
 # 理论依据
+
+$(10\times \text{weight in kg}) + (6.25\times \text{height in cm}) - (5\times\text{age})+5$. 
+
+
 1. 最重要也是最基本的减肥理论依据是消耗一公斤脂肪大约需要烧掉7,700卡路里
 2. 人的基础代谢(BMR)是可以根据公式算出来的
     1. 如果是男生 - $(10\times \text{weight in kg}) + (6.25\times \text{height in cm}) - (5\times\text{age})+5$. 
