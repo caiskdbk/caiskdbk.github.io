@@ -25,7 +25,7 @@ title: 减肥
 
 # 短期结果
 可以从apple health 上看出来(截图的时候还被嘲笑了一次) - 过去的一个半月以来我的体重不减反升. 所以以上充分体现了 什么叫做一顿操作猛如虎 结果一看是废物
-![_config.yml]({{ site.baseurl }}/images/weight_loss_progress_1.png)
+![pic-1]({{ site.baseurl }}/images/weight_loss_progress_1.jpg)
 
 
 ---
